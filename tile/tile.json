@@ -1,0 +1,8 @@
+{
+  "name": "tessl-skill-index-evals/editor",
+  "version": "0.3.0",
+  "docs": "docs/index.md",
+  "describes": "pkg:npm/%40pascal-app/core@0.3.0",
+  "summary": "Core library for the Pascal 3D building editor, providing node schemas, Zustand scene state with undo/redo, geometry systems, spatial grid, event bus, and asset storage.",
+  "private": true
+}
